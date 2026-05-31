@@ -1,4 +1,4 @@
-# [[BUSINESS NAME]] — Mobile Welding Website
+# Twisted C Mobile Welding — Mobile Welding Website
 
 A static marketing website (plain HTML + CSS + JavaScript, no build step) for a mobile welding service.
 It is inspired by the structure of a contractor marketing site: sticky header with a phone call-to-action,
@@ -33,7 +33,7 @@ mobile-welding-site/
 ├── js/
 │   └── main.js             # Mobile menu, sticky header, lightbox, contact form
 └── assets/
-    ├── logo.svg            # Placeholder logo
+    ├── logo.png            # Site logo (Twisted C wordmark)
     ├── hero.svg            # Placeholder hero background
     └── placeholder.svg     # Generic image placeholder
 ```
@@ -41,7 +41,7 @@ mobile-welding-site/
 ## Editing the placeholders
 
 All content you need to replace is marked with a searchable token: **`[[PLACEHOLDER]]`** (and labels
-like `[[BUSINESS NAME]]`, `[[PHONE]]`, `[[ADDRESS]]`, `[[SERVICE AREA]]`, `[[YEAR]]`, `[[EMAIL]]`).
+like `Twisted C Mobile Welding`, `[[PHONE]]`, `[[ADDRESS]]`, `[[SERVICE AREA]]`, `[[YEAR]]`, `[[EMAIL]]`).
 
 1. Search the project for `[[` to find every spot that needs real content.
 2. Replace the placeholder text with your real business details.

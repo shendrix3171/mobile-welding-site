@@ -1,5 +1,5 @@
 /* =========================================================
-   [[BUSINESS NAME]] — Mobile Welding
+   Twisted C Mobile Welding
    Shared stylesheet. Theme variables live at the top:
    change --accent to re-brand the whole site at once.
    ========================================================= */
@@ -110,7 +110,7 @@ h1, h2, h3 { line-height: 1.15; margin: 0 0 0.5em; }
 }
 
 .brand { display: flex; align-items: center; }
-.brand img { height: 42px; width: auto; }
+.brand img { height: 58px; width: auto; }
 
 .main-nav ul {
   list-style: none;
@@ -502,7 +502,7 @@ h1, h2, h3 { line-height: 1.15; margin: 0 0 0.5em; }
 .site-footer ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
 .site-footer a { color: var(--muted); }
 .site-footer a:hover { color: var(--accent); }
-.footer-brand img { height: 46px; margin-bottom: 14px; }
+.footer-brand img { height: 84px; width: auto; margin-bottom: 14px; }
 .footer-hours { display: grid; grid-template-columns: auto auto; gap: 4px 18px; max-width: 240px; }
 .footer-hours span:nth-child(even) { color: var(--text); text-align: right; }
 .footer-bottom {

@@ -1,5 +1,5 @@
 /* =========================================================
-   [[BUSINESS NAME]] — Mobile Welding
+   Twisted C Mobile Welding
    Site behavior: mobile nav, sticky-header shadow,
    gallery lightbox, and front-end contact form handling.
    ========================================================= */
