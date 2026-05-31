@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="[[PLACEHOLDER]] photo">
+  <defs>
+    <linearGradient id="ph" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b313a"/>
+      <stop offset="1" stop-color="#171a1f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#ph)"/>
+  <g fill="none" stroke="#ff7a18" stroke-opacity="0.7" stroke-width="6">
+    <path d="M360 230 L330 320 L375 320 L345 400 L470 280 L420 280 L455 230 Z"/>
+  </g>
+  <text x="400" y="470" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#aeb6c2" letter-spacing="1">[[PLACEHOLDER IMAGE]]</text>
+  <text x="400" y="510" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6f7884" letter-spacing="2">REPLACE WITH YOUR PHOTO</text>
+</svg>

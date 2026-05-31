@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="[[PLACEHOLDER]] hero image of mobile welding work">
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#23282f"/>
+      <stop offset="0.55" stop-color="#15181c"/>
+      <stop offset="1" stop-color="#0c0e11"/>
+    </linearGradient>
+    <radialGradient id="arc" cx="32%" cy="64%" r="28%">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="#ff7a18" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff7a18" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#steel)"/>
+  <!-- faint diagonal beams -->
+  <g stroke="#ffffff" stroke-opacity="0.04" stroke-width="40">
+    <line x1="-100" y1="200" x2="900" y2="1100"/>
+    <line x1="200" y1="-100" x2="1300" y2="900"/>
+    <line x1="700" y1="-100" x2="1800" y2="900"/>
+  </g>
+  <!-- weld glow -->
+  <circle cx="512" cy="576" r="420" fill="url(#arc)"/>
+  <!-- spark burst -->
+  <g stroke="#ffd27a" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <line x1="512" y1="576" x2="640" y2="470"/>
+    <line x1="512" y1="576" x2="660" y2="560"/>
+    <line x1="512" y1="576" x2="600" y2="690"/>
+    <line x1="512" y1="576" x2="430" y2="470"/>
+    <line x1="512" y1="576" x2="700" y2="620"/>
+  </g>
+  <circle cx="512" cy="576" r="10" fill="#fff7e6"/>
+</svg>
