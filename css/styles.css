@@ -478,6 +478,18 @@ h1, h2, h3 { line-height: 1.15; margin: 0 0 0.5em; }
   letter-spacing: 1px;
 }
 
+.map-embed {
+  display: block;
+  margin-top: 26px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  line-height: 0;
+  transition: border-color 0.15s ease;
+}
+.map-embed:hover { border-color: var(--accent); }
+.map-embed img { width: 100%; height: auto; display: block; }
+
 /* =========================================================
    Footer
    ========================================================= */
