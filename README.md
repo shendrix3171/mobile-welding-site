@@ -39,7 +39,7 @@ mobile-welding-site/
 ## Editing the placeholders
 
 All content you need to replace is marked with a searchable token: **`[[PLACEHOLDER]]`** (and labels
-like `Twisted C Mobile Welding`, `[[PHONE]]`, `[[ADDRESS]]`, `[[SERVICE AREA]]`, `[[YEAR]]`, `[[EMAIL]]`).
+like `Twisted C Mobile Welding`, `430-359-9173`, `[[ADDRESS]]`, `[[SERVICE AREA]]`, `[[YEAR]]`, `[[EMAIL]]`).
 
 1. Search the project for `[[` to find every spot that needs real content.
 2. Replace the placeholder text with your real business details.
