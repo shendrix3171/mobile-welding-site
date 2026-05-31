@@ -24,9 +24,7 @@ mobile-welding-site/
 ├── mobile-welding.html     # Mobile / on-site welding services
 ├── custom-fabrication.html # Custom fabrication + gallery thumbs
 ├── projects.html           # Projects & past clients
-├── gallery.html            # Photo gallery (with lightbox)
-├── careers.html            # Open positions
-├── testimonials.html       # Customer testimonials
+├── gallery.html            # Photo gallery (with lightbox)├── testimonials.html       # Customer testimonials
 ├── contact.html            # Contact form, address, hours, map
 ├── css/
 │   └── styles.css          # All shared styling
