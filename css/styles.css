@@ -18,7 +18,7 @@
   --muted: #aab2bf;
   --muted-2: #7b8593;
 
-  --header-h: 76px;
+  --header-h: 96px;
   --maxw: 1180px;
   --radius: 12px;
   --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
@@ -110,7 +110,7 @@ h1, h2, h3 { line-height: 1.15; margin: 0 0 0.5em; }
 }
 
 .brand { display: flex; align-items: center; }
-.brand img { height: 58px; width: auto; }
+.brand img { height: 72px; width: auto; }
 
 .main-nav ul {
   list-style: none;
